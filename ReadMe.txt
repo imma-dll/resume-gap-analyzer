@@ -31,3 +31,32 @@ Commands:
 
 cd D:\Work\JS Projects\resume-gap-analyzer
 npm run dev
+
+
+
+Backend:
+
+
+
+Ps1 activate:
+Set-ExecutionPolicy Unrestricted -Scope Process
+
+python -m venv venv
+venv\Scripts\activate
+python app.py
+
+
+ pip install pandas
+
+flask
+flask-cors
+pdfplumber
+
+pip install -r requirements.txt
+
+python.exe -m pip install --upgrade pip
+
+Sample Job description:
+
+We are looking for a Python developer with React experience.
+Experience with MongoDB is a plus.

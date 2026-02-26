@@ -1,0 +1,102 @@
+{
+    "resume": {
+        "raw_text": "John Doe\nEmail: john@example.com\nProfessional Summary\nSoftware developer with experience in Python, React, and MongoDB.\nSkills\n\u2022 Python\n\u2022 Flask\n\u2022 React\n\u2022 MongoDB\n\u2022 JavaScript\nExperience\nWorked on web applications using React frontend and Python backend.",
+        "clean_text": "john doe email johnexamplecom professional summary software developer with experience in python react and mongodb skills python flask react mongodb javascript experience worked on web applications using react frontend and python backend",
+        "tokens": [
+            "john",
+            "doe",
+            "email",
+            "johnexamplecom",
+            "professional",
+            "summary",
+            "software",
+            "developer",
+            "with",
+            "experience",
+            "in",
+            "python",
+            "react",
+            "and",
+            "mongodb",
+            "skills",
+            "python",
+            "flask",
+            "react",
+            "mongodb",
+            "javascript",
+            "experience",
+            "worked",
+            "on",
+            "web",
+            "applications",
+            "using",
+            "react",
+            "frontend",
+            "and",
+            "python",
+            "backend"
+        ],
+        "skills_detected": [
+            {
+                "skill": "python",
+                "category": "programming_languages"
+            },
+            {
+                "skill": "java",
+                "category": "programming_languages"
+            },
+            {
+                "skill": "javascript",
+                "category": "programming_languages"
+            },
+            {
+                "skill": "react",
+                "category": "frameworks"
+            },
+            {
+                "skill": "flask",
+                "category": "frameworks"
+            },
+            {
+                "skill": "mongodb",
+                "category": "databases"
+            }
+        ]
+    },
+    "job_description": {
+        "raw_text": "We are looking for a Python developer with React experience.\r\nExperience with MongoDB is a plus",
+        "clean_text": "we are looking for a python developer with react experience experience with mongodb is a plus",
+        "tokens": [
+            "we",
+            "are",
+            "looking",
+            "for",
+            "a",
+            "python",
+            "developer",
+            "with",
+            "react",
+            "experience",
+            "experience",
+            "with",
+            "mongodb",
+            "is",
+            "a",
+            "plus"
+        ],
+        "skills_detected": [
+            {
+                "skill": "python",
+                "category": "programming_languages"
+            },
+            {
+                "skill": "react",
+                "category": "frameworks"
+            },
+            {
+                "skill": "mongodb",
+                "category": "databases"
+            }
+        ]
+    }
+}
